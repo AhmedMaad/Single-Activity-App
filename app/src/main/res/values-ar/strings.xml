@@ -1,8 +1,7 @@
 <resources>
-    <string name="app_name">الاكتيفيتي السنجل</string>
-    <string name="google_details">جوجل هي شركة عريقة وجميلة</string>
-    <string name="google_address">رماية جيزة</string>
+    <string name="app_name">الأكتيفيتي السنجل</string>
+    <string name="google_details">جوجل هي شركة تكنولوجيا أمريكية متعددة الجنسيات متخصصة في الخدمات والمنتجات المتعلقة بالإنترنت ، والتي تشمل تقنيات الإعلان عبر الإنترنت ومحرك البحث والحوسبة السحابية والبرامج والأجهزة.</string>
+    <string name="google_address">ماونتن فيو ، كاليفورنيا ، الولايات المتحدة</string>
     <string name="X"><u>google.com</u></string>
-
 
 </resources>
