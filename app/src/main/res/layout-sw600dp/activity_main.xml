@@ -15,7 +15,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:alpha="0.2"
-            android:src="@drawable/android_logo" />
+            android:src="@drawable/android_logo"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <ImageView
             android:id="@+id/iv_google"
